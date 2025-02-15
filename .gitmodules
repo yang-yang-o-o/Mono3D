@@ -1,0 +1,3 @@
+[submodule "mmdet3d"]
+	path = mmdet3d
+	url = https://github.com/yang-yang-o-o/mmdet3d.git
